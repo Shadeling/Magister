@@ -4,6 +4,15 @@ using System.Linq;
 
 namespace Mag
 {
+
+    public class ScheduleInformation{
+        public int groupId;
+        public int teacherId;
+        public int auditoriumId;
+        public string discipline;
+        public string lessontype;
+    }
+
     public class Gene{
 
         private string discipline;
@@ -167,6 +176,19 @@ namespace Mag
             }
 
             return fitness;
+        }
+
+        public ScheduleInformation GetInfo(out int day, out int pairNum){
+            day = this.weekDay;
+            pairNum = this.pair;
+
+            return new ScheduleInformation(){
+                groupId = this.groupId,
+                teacherId = this.teacherId,
+                auditoriumId = this.auditoriumId,
+                discipline = this.discipline,
+                lessontype = this.lessontype
+            };
         }
     }
 }

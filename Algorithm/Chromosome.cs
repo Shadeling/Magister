@@ -8,11 +8,11 @@ namespace Mag{
 
     public class Chromosome{
 
-        private List<Gene> genes;
+        public List<Gene> genes {get; private set;}
 
-        private int groupId;
+        public int groupId {get; private set;}
 
-        public Individuum individuum;
+        public Individuum individuum {get; private set;}
 
         public float fitness {get; private set;}
 
@@ -95,7 +95,7 @@ namespace Mag{
                     if(myTimeUsed[i,j]>0){
                         pairPerDay++;
                         if(winLen>0){
-                            windows++;
+                            windows+=winLen;
                             winLen = 0;
                         }
                     }
