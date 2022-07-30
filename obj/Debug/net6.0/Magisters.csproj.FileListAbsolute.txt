@@ -1,0 +1,17 @@
+C:\Users\miron\Downloads\Mironov_S.V\GeekBrains\homeworks\Magisters\obj\Debug\net6.0\Magisters.csproj.AssemblyReference.cache
+C:\Users\miron\Downloads\Mironov_S.V\GeekBrains\homeworks\Magisters\obj\Debug\net6.0\Magisters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miron\Downloads\Mironov_S.V\GeekBrains\homeworks\Magisters\obj\Debug\net6.0\Magisters.AssemblyInfoInputs.cache
+C:\Users\miron\Downloads\Mironov_S.V\GeekBrains\homeworks\Magisters\obj\Debug\net6.0\Magisters.AssemblyInfo.cs
+C:\Users\miron\Downloads\Mironov_S.V\GeekBrains\homeworks\Magisters\obj\Debug\net6.0\Magisters.csproj.CoreCompileInputs.cache
+C:\Users\miron\Downloads\Mironov_S.V\GeekBrains\homeworks\Magisters\bin\Debug\net6.0\Magisters.exe
+C:\Users\miron\Downloads\Mironov_S.V\GeekBrains\homeworks\Magisters\bin\Debug\net6.0\Magisters.deps.json
+C:\Users\miron\Downloads\Mironov_S.V\GeekBrains\homeworks\Magisters\bin\Debug\net6.0\Magisters.runtimeconfig.json
+C:\Users\miron\Downloads\Mironov_S.V\GeekBrains\homeworks\Magisters\bin\Debug\net6.0\Magisters.dll
+C:\Users\miron\Downloads\Mironov_S.V\GeekBrains\homeworks\Magisters\bin\Debug\net6.0\ref\Magisters.dll
+C:\Users\miron\Downloads\Mironov_S.V\GeekBrains\homeworks\Magisters\bin\Debug\net6.0\Magisters.pdb
+C:\Users\miron\Downloads\Mironov_S.V\GeekBrains\homeworks\Magisters\bin\Debug\net6.0\IronXL.dll
+C:\Users\miron\Downloads\Mironov_S.V\GeekBrains\homeworks\Magisters\obj\Debug\net6.0\Magisters.csproj.CopyComplete
+C:\Users\miron\Downloads\Mironov_S.V\GeekBrains\homeworks\Magisters\obj\Debug\net6.0\Magisters.dll
+C:\Users\miron\Downloads\Mironov_S.V\GeekBrains\homeworks\Magisters\obj\Debug\net6.0\ref\Magisters.dll
+C:\Users\miron\Downloads\Mironov_S.V\GeekBrains\homeworks\Magisters\obj\Debug\net6.0\Magisters.pdb
+C:\Users\miron\Downloads\Mironov_S.V\GeekBrains\homeworks\Magisters\obj\Debug\net6.0\Magisters.genruntimeconfig.cache
