@@ -7,5 +7,5 @@ DataBase DB = new DataBase();
 DB.LoadAllTables();
 
 
-Population pop = new Population(DB, 100, 3000);
+Population pop = new Population(DB, 50, 500);
 pop.Evolve();

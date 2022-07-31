@@ -110,6 +110,9 @@ namespace Mag{
                 if(pairPerDay==1){
                     fitness+= Weights.ONLY_ONE_PAIR_DAY_PENALTY;
                 }
+                if(pairPerDay <= Constants.MAX_STUDENTS_OK_PAIRS){
+                    fitness+= Weights.STUDENT_MAX_PAIRS_OK_WEIGHT;
+                }
             }
 
             
